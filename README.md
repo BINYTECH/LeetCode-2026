@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BINYTECH/LeetCode-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
