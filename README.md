@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -32,4 +33,16 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
