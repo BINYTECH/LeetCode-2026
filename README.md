@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BINYTECH/LeetCode-2026/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -44,6 +45,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BINYTECH/LeetCode-2026/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -53,4 +55,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
