@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -40,9 +41,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
