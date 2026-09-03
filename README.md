@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0704-binary-search) |
 ## Hash Table
@@ -58,4 +59,8 @@
 | [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BINYTECH/LeetCode-2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
