@@ -16,6 +16,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
 | [0704-binary-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BINYTECH/LeetCode-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -63,4 +65,13 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
