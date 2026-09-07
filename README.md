@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/BINYTECH/LeetCode-2026/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,4 +77,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
