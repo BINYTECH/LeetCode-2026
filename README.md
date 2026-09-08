@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BINYTECH/LeetCode-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/BINYTECH/LeetCode-2026/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/0344-reverse-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0326-power-of-three](https://github.com/BINYTECH/LeetCode-2026/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/BINYTECH/LeetCode-2026/tree/master/0494-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
