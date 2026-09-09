@@ -10,6 +10,7 @@
 | [0326-power-of-three](https://github.com/BINYTECH/LeetCode-2026/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/BINYTECH/LeetCode-2026/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BINYTECH/LeetCode-2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -54,6 +55,7 @@
 | [0326-power-of-three](https://github.com/BINYTECH/LeetCode-2026/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/BINYTECH/LeetCode-2026/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/BINYTECH/LeetCode-2026/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/BINYTECH/LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
@@ -64,6 +66,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/BINYTECH/LeetCode-2026/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/BINYTECH/LeetCode-2026/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/BINYTECH/LeetCode-2026/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BINYTECH/LeetCode-2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 |  |
